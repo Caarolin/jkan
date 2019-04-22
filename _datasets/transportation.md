@@ -13,7 +13,7 @@ resources:
   - name: Parking Permit Zones
     url: 'https://data.cityofchicago.org/api/views/u9xt-hiju/rows.csv?accessType=DOWNLOAD'
     format: csv
-license: 'Public Domain'
+license: 'http://www.opendefinition.org/licenses/odc-odbl'
 category:
   - Transportation
 maintainer: City of Chicago

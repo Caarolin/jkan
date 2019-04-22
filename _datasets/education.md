@@ -13,7 +13,7 @@ resources:
   - name: Public Schools Admission Information 2018-2019
     url: 'https://data.cityofchicago.org/api/views/nfp9-pxfv/rows.csv?accessType=DOWNLOAD'
     format: csv
-license: 'Public Domain'
+license: 'http://www.opendefinition.org/licenses/odc-odbl'
 category:
   - Education
 maintainer: City of Chicago

@@ -13,7 +13,7 @@ resources:
   - name: Sex Offenders
     url: 'https://data.cityofchicago.org/api/views/vc9r-bqvy/rows.csv?accessType=DOWNLOAD'
     format: csv
-license: 'Public Domain'
+license: 'http://www.opendefinition.org/licenses/odc-odbl'
 category:
   - Public Safety
 maintainer: City of Chicago
