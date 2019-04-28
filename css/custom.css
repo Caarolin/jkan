@@ -1,15 +1,22 @@
+.container {
+    background: #AEDEF4;
+    color: black;
+}
+
 .jumbotron {
     background-image: url('https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
     color: whitesmoke;
 }
 
-
 a.thumbnail {
-    background: rgba(143,216,210,0.5);
-    color: white;
+    background: #A1D9F2;
+    color: black;
 }
 
 a.thumbnail:hover {
-    background: rgba(143,216,210,0.7);
-    color: white;
+    background: #81CCEE;
+    color: black;
 }
