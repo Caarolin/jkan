@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Transportation Dataset
-organization: City of Chicago
+organization: Chicago Department of Transportation
 notes: This is a dataset about the city of Chicago's transportation. It contains data of congestion estimates, traffic crashes, and parking permit zones.
 resources:
   - name: Congestion Estimates by Segments
