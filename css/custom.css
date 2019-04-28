@@ -1,17 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Raleway|Titan+One");
-
-/* 
-font-family: 'Titan One', cursive;
-font-family: 'Raleway', sans-serif;
-*/
-
 body {
-  background: #70e1f5; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #ffd194, #70e1f5); /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(
-    to right,
-    #ffd194,
-    #70e1f5
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  font-family: "Raleway", sans-serif;
+    background-image: url('/Users/fangrl/Desktop/Harris\ 3Q19/Civic\ Technology/Assignments/austin-neill-189142-unsplash.jpg');
 }
+
