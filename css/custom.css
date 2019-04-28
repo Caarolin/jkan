@@ -24,7 +24,7 @@ a.thumbnail {
     border-style:none;
 }
 
-img {
+.homepage-categories > a > img {
     filter: invert(100%)
 }
 
@@ -33,5 +33,93 @@ a.thumbnail:hover {
     color: black;
 }
 
-
 h3 { color: white; }
+
+dataset {
+    background: white;
+    color: gray;
+    padding-top: 0.016px;
+    padding-left:25px;
+    padding-right:10px;
+    padding-bottom:20px;
+    margin-top:15px;
+    border-radius: 5px;
+}
+
+.media {
+    background: white;
+    color: gray;
+    padding-top: 20px;
+    padding-left:18px;
+    padding-right:15px;
+    padding-bottom:20px;
+    margin-top:15px;
+    border-radius: 5px;
+}
+
+.panel.panel-default {
+    color: gray;
+    background: white;
+}
+
+.panel-body > h3 {
+    font-size: 20px;
+}
+
+div[typeof="dcat:Dataset"] > .col-sm-9 {
+    background: rgba(0,0,0,0.5);
+    border-radius: 5px;
+}
+
+p[property="dct:description"] {
+    color: snow;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.col-sm-9 > h2 {
+    color: white;
+}
+
+.col-sm-9 > ul {
+    background-color: rgba(255,255,255,0.7);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 26px;
+    border-radius: 5px;
+}
+
+.col-sm-9 > ul > li > a {
+    font-size: 16px;
+    color: black;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd) {
+    color: black;
+    background: rgba(255,255,255,0.7);
+}
+
+a[property="dct:license"] {
+    color: black;
+}
+
+.table-striped > tbody > tr:nth-of-type(even) > td > a {
+    color: white;
+}
+
+div.col-sm-9 > h1 > span[property="dct:title"]{
+    color: white;
+}
+
+div.col-sm-9 > h1 {
+    color: maroon;
+}
+
+div.col-sm-9 > p {
+    color: white;
+    background: rgba(0,0,0,0.3);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
