@@ -1,5 +1,15 @@
 .jumbotron {
-    background: #BFD8D2;
-    color: #DF744A;
+    background-image: url('https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60');
+    color: whitesmoke;
 }
 
+
+a.thumbnail {
+    background: rgba(143,216,210,0.5);
+    color: white;
+}
+
+a.thumbnail:hover {
+    background: rgba(143,216,210,0.7);
+    color: white;
+}
